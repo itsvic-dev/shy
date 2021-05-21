@@ -1,5 +1,5 @@
 # Shy
-***Sh**ell + P**y**thon = Shy*
+<p><i><b>Sh</b>ell + P<b>y</b>thon = Shy</i></p>
 
 Shy is a shell written in Python which tries to be extensible while
 trying to keep things simple.
